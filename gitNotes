@@ -27,3 +27,7 @@ git rm file.txt
 git add file.txt
 git commit -m "message"
 
+¿Cómo ver todos los commits?
+
+git log
+

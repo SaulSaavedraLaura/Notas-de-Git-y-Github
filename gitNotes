@@ -1,0 +1,29 @@
+Notas de Git:
+
+1) Crear repositorios
+
+¿Cómo iniciar un repositorio en Git?
+
+git init
+
+¿Cómo añadir un archivo al staged?
+
+git add file.txt
+
+¿Cómo ver el status de un archivo?
+
+git status
+
+¿Cómo remover un archivo de ram?
+
+git rm -cached file.txt
+
+¿Cómo eliminar un repositorio?
+
+git rm file.txt
+
+¿Cómo hacer un commit?
+
+git add file.txt
+git commit -m "message"
+

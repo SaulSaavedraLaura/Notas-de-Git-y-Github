@@ -39,9 +39,36 @@ git show file.txt
 
 ¿Cómo comparar dos versiones en git?
 
-git diff -code- -code-
+git diff -hash- -hash-
 
-¿Cómo ver los codigos de cada version en git?
+¿Cómo ver los hashs de cada version en git?
 
 git log file.txt
+
+3) Volver a commits antiguos y resetar el historial
+
+¿Cómo podemos ver commits antiguos?
+
+git checkout -hash-
+
+¿Cómo volver al ultimo commit?
+
+git checkout master
+
+¿Cómo resetear en un punto el historial de commits?
+
+git reset -hash- --hard / --soft
+
+¿Cómo cual es la diferencia entre --hard y --soft?
+
+hard borra de golpe todo lo que este por encima del hash
+y soft borra todo pero mantiene lo que se encuentre en staging
+
+
+
+
+
+
+
+
 

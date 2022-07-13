@@ -64,6 +64,23 @@ git reset -hash- --hard / --soft
 hard borra de golpe todo lo que este por encima del hash
 y soft borra todo pero mantiene lo que se encuentre en staging
 
+4) branchs en git
+
+¿Qué es un branch en git?
+
+Es una rama donde podemos hacer cambios que no afectaran a la rama principal
+
+¿Cómo crear un branch?
+
+git branch "name"
+
+¿Cómo puedo moverme al otro branch?
+
+git checkout "name"
+
+¿Cómo puedo eliminar un branch?
+
+git branch -d "name"
 
 
 

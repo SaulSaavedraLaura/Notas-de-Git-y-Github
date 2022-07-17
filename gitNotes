@@ -82,6 +82,16 @@ git checkout "name"
 
 git branch -d "name"
 
+5) merge en git
+
+¿Cómo se hace un merge en git?
+
+git merge "branch"
+
+¿Dónde se hace el merge?
+
+El merge se hace en la rama en donde se esta, trayendose los cambios de la rama que
+se invoco
 
 
 

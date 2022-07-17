@@ -93,6 +93,15 @@ git merge "branch"
 El merge se hace en la rama en donde se esta, trayendose los cambios de la rama que
 se invoco
 
+6) arreglando conflictos en git
+
+¿Qué es un conflicto?
+
+Algo que siempre pasa en git
+
+¿Cómo arreglamos un conflicto?
+
+Discutiendo con una el que te causo el conflicto
 
 
 
